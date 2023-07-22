@@ -6,7 +6,7 @@
 **About the Data**
 Overall, the dataset contains information about 200 customers, including their unique identifiers, gender, age, annual income, and spending score. The data appears to be complete with no missing values (non-null entries in all columns).
 ![datainfo](Image/datainfo.jpg)
-<img src="Image/datainfo.jpg" width="50" height="50">
+<img src="Image/datainfo.jpg" width="450" height="300">
 
 From the Above output, we can conclude that:
 *There are no missing values in come
